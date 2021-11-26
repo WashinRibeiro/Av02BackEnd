@@ -24,23 +24,23 @@ Não se esqueça de configurar toda a infraestrutura requerida para gerência do
 
 As funcionalidades que o aplicativo deve ter é a seguinte: 
 
-1 – Incluir produto 
-2 – Consultar produto 
-3 – Listagem de produtos 
-4 – Vendas por período – detalhado 
-5 – Realizar venda 
+1 – Incluir produto <br />
+2 – Consultar produto <br />
+3 – Listagem de produtos <br />
+4 – Vendas por período – detalhado <br />
+5 – Realizar venda <br />
 
  
 -------------------------------------------------------------------
 
 **Informações adicionais:**
 
-Criar um microsserviço para Produto e um para Venda
-Banco de Dados: MongoDB ou PostgreSQL
-Criar Eureka e Zuul Server
-Usar Optional e Renponse Entity (personalização das responses)
-Usar DTO e modelos de Request e Response
-Usar Open Feign/Hystrix para comunicação/monitoramento da conexão entre microsserviços
-Não precisa utilizar Config-Server por enquanto
-Implementar CRUD de Produtos e Vendas
+Criar um microsserviço para Produto e um para Venda<br />
+Banco de Dados: MongoDB ou PostgreSQL<br />
+Criar Eureka e Zuul Server<br />
+Usar Optional e Renponse Entity (personalização das responses)<br />
+Usar DTO e modelos de Request e Response<br />
+Usar Open Feign/Hystrix para comunicação/monitoramento da conexão entre microsserviços<br />
+Não precisa utilizar Config-Server por enquanto<br />
+Implementar CRUD de Produtos e Vendas<br />
 
