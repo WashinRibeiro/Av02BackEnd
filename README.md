@@ -1,6 +1,6 @@
 ## Atividade Final do módulo de Backend - Tech4me
 
-# PROJETO LOJA
+## PROJETO LOJA
 
 Vamos desenvolver um novo projeto utilizando microsserviços. Crie toda a estrutura necessária para criar um serviço de cadastro de produtos e outro para vendê-los.
 
@@ -22,7 +22,7 @@ Não se esqueça de configurar toda a infraestrutura requerida para gerência do
 - As vendas são feitas sempre para um único produto. 
 - Para realizar a venda, sempre verifique se o produto a ser vendido existe em estoque. 
 
-As funcionalidades que o aplicativo deve ter é a seguinte: 
+**As funcionalidades que o aplicativo deve ter é a seguinte:**
 
 1 – Incluir produto <br />
 2 – Consultar produto <br />
